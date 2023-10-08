@@ -13,14 +13,11 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
         }
-<<<<<<< HEAD
-=======
 
         for (int i = 1; i <= 5; i++) {
 
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
->>>>>>> 23e8c2f (Initial commit dasd)
     }
 }
